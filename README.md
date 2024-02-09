@@ -1,6 +1,7 @@
 # Assignment-1
 Creating an array class
 
+Screenshot is in the issues section
 
 OVERVIEW
 
