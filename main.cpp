@@ -7,7 +7,7 @@ using namespace std;
 int main(int argc, const char * argv[]) {
     
     //Create path to input file
-    const char* file = "/Users/travoncross/UMKC/Spring 2024/COMP-SCI 303/Assignment 1/Assignment 1/A1input.txt";
+    const char* file = "A1input.txt";
     // Create input variable
     ifstream input;
     //Get file
